@@ -76,7 +76,7 @@ To allow people to trade something for your coin, you need to provide some liqui
 
 Your meme coin should have some value now. After 30 minutes or thereabouts, your token will be listed on most ASA trackers and liquidity pools across the Algorand ecosystem. You can head to [Vestige.fi](https://vestige.fi/) (formerly TinyChart) to confirm things. 
 
-<img width="1332" alt="strongmoonai-vestige" src="https://github.com/EmSeriki/create-memecoin/assets/82876072/b0d6ff64-8287-4b63-bf7e-943d7501b601">
+<img width="1332" alt="strongmoonai-vestige" src="https://github.com/EmSeriki/create-memecoin/assets/82876072/b83f5b65-21e7-490f-8503-11fa29581704">
 
 As you can see, our coin now has some value. 
 
